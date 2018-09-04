@@ -1,7 +1,7 @@
-# Nuxt.js Website Boilerplate
+# Vue Website Boilerplate
 
 ![nuxtjs-website-boilerplate](https://cosmic-s3.imgix.net/f761b6c0-31c3-11e8-b70e-833ed2e4b04d-nuxtjs-cosmicjs.jpg)
-A website template that satisfies some common website requirements including dynamic pages, blog articles, author management, SEO ability, contact form and website search.  Contributions welcome!
+A website template that satisfies some common website requirements including dynamic pages, blog articles, author management, SEO ability, contact form and website search. Built using Vue and Nuxt.js. Contributions welcome!
 
 ## Demo
 [Click here to view the demo](https://cosmicjs.com/apps/nuxtjs-website-boilerplate)
@@ -20,8 +20,8 @@ Sign up for [Cosmic JS](https://cosmicjs.com) to install the demo content and de
 ## Getting Started
 
 ```bash
-git clone https://github.com/cosmicjs/nodejs-website-boilerplate
-cd nuxtjs-website-boilerplate
+git clone https://github.com/cosmicjs/vue-website-boilerplate
+cd vue-website-boilerplate
 npm install
 
 # Run in development and serve at localhost:3000

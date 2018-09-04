@@ -1,7 +1,7 @@
 {
-  "name": "medical-professional-nuxt-js",
+  "name": "medical-professional-vue-js",
   "version": "1.0.0",
-  "description": "Nuxt.js Website Boilerplate",
+  "description": "Vue Website Boilerplate",
   "author": "BitBytes",
   "private": true,
   "scripts": {
