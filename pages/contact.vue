@@ -81,7 +81,6 @@ export default {
                     var res = this.$store.dispatch('sendMessage',this.contactMessage)
                     res.then(response => {
                         if(!response.status){
-                            response.message = 'Email not sent. You need to add the smtps string to your config.'
                             this.errorMessage = response.message
                         }else{
                             this.successMessage = response.message
